@@ -4,4 +4,5 @@
   - Spring Boot 2.6.1
   - JPA
 - Spring MVC
+  - Spring Boot 2.6.1
   - thymeleaf
