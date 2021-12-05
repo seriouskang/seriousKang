@@ -6,4 +6,4 @@
 - Spring MVC
   - Spring Boot 2.6.1
   - thymeleaf
-  - bootstrap(`Compiled CSS and JS`)
+  - Bootstrap v5.0.2(`Compiled CSS and JS`)
