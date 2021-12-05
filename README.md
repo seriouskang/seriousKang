@@ -1,9 +1,10 @@
 ### RESTful Web Services
+---
 - tech
   - Spring Boot 2.6.1
-  - JPA
-
+  - JPA  
 ### Spring MVC
+---
 - contents
   - spring introduction
   - thymeleaf
