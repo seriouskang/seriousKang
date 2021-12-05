@@ -6,8 +6,9 @@
 ### Spring MVC
 ---
 - contents
-  - spring introduction
-  - thymeleaf
+  - spring MVC introduction
+  - thymeleaf usage
+  - message, i18n
 - tech
   - Spring Boot 2.6.1
   - thymeleaf
