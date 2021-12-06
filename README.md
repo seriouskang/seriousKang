@@ -6,7 +6,8 @@
 ### Spring MVC
 ---
 - contents
-  - spring MVC introduction with servlet, JSP
+  - servlet, JSP
+  - spring MVC introduction
   - thymeleaf usage
   - message, i18n
 - tech
