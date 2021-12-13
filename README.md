@@ -10,7 +10,7 @@
   - spring MVC introduction
   - thymeleaf usage
   - message, i18n
-  - validation
+  - (bean) validation
 - tech
   - Spring Boot 2.6.1
   - thymeleaf
