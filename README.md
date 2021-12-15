@@ -11,6 +11,7 @@
   - thymeleaf usage
   - message, i18n
   - (bean) validation
+  - cookie, session
 - tech
   - Spring Boot 2.6.1
   - thymeleaf
