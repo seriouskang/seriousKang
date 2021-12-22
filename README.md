@@ -12,6 +12,7 @@
   - message, i18n
   - (bean) validation
   - cookie, session
+  - filter, interceptor
 - tech
   - Spring Boot 2.6.1
   - thymeleaf
