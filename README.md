@@ -13,7 +13,7 @@
   - (bean) validation
   - cookie, session
   - filter, interceptor
-  - exception handling
+  - (API) exception handling
 - tech
   - Spring Boot 2.6.1
   - thymeleaf
