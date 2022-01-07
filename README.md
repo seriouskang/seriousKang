@@ -2,6 +2,10 @@
 ---
 - tech
   - Spring Boot 2.6.1
+  - HATEOAS
+  - Swagger
+  - Actuator
+  - Spring Security
   - JPA  
 ### Spring MVC
 ---
