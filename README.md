@@ -3,7 +3,7 @@
 - tech
   - Spring Boot 2.6.1
   - HATEOAS, HAL
-  - Swagger
+  - Swagger, SpringDoc
   - Actuator
   - Spring Security
   - JPA  
